@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">İlaç Hatırlatıcı</string>
+    <string name="channel_dose_name">İlaç hatırlatmaları</string>
+    <string name="channel_dose_desc">Planlanan doz saatlerinde bildirim</string>
+    <string name="widget_description">Sıradaki ilaç dozunu gösterir</string>
+    <string name="widget_loading">Yükleniyor…</string>
+</resources>
